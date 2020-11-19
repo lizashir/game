@@ -1,0 +1,4 @@
+tile_set: "/def-war-battles/units/units.atlas"
+default_animation: "infantry-s"
+material: "/builtins/materials/sprite.material"
+blend_mode: BLEND_MODE_ALPHA

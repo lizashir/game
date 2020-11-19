@@ -1,0 +1,4 @@
+tile_set: "/def-war-battles/buildings/buildings.atlas"
+default_animation: "heliport-idle"
+material: "/builtins/materials/sprite.material"
+blend_mode: BLEND_MODE_ALPHA

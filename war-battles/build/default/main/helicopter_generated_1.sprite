@@ -1,0 +1,4 @@
+tile_set: "/def-war-battles/ui/ui.atlas"
+default_animation: "health-bar-3"
+material: "/builtins/materials/sprite.material"
+blend_mode: BLEND_MODE_ALPHA
